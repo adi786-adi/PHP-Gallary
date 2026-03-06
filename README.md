@@ -18,7 +18,7 @@ User-friendly interface for uploading images.
 ## 2️⃣ Upload Success
 Image successfully uploaded after validation.
 
-![Upload Success](2.png)
+![Upload Success](22.png)
 
 ---
 
@@ -62,18 +62,6 @@ Users can manage uploaded images directly in the gallery.
 
 ---
 
-# 📸 Application Screenshots
-
-### 1️⃣ Upload Page
-User-friendly interface for uploading images.
-
-### 2️⃣ Upload Success
-Image successfully uploaded after validation.
-
-### 3️⃣ Gallery View
-Dynamic gallery displaying uploaded images.
-
-Screenshots are available in the `screenshots` folder.
 
 ---
 
@@ -230,5 +218,4 @@ Group Members:
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **star on GitHub**!
 
